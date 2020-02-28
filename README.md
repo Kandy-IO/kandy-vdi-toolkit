@@ -1,7 +1,7 @@
 # @kandy-io/kandy-vdi-toolkit
 ## Kandy VDI toolkit
 
-In conjunction with the Kandy JavaScript SDK, the Kandy Distant Toolkit provides a platform that enables application developers to deliver an HD experience for video and audio calls in VDI environments. The platform hides the complexities of dealing with thin clients and server-based computing so that application developers can focus on user capabilities and user experience.
+In conjunction with the Kandy JavaScript SDK, the Kandy Distant Toolkit provides a platform that enables application developers to deliver a HD experience for video and audio calls in VDI environments. The platform hides the complexities of dealing with thin clients and server-based computing so that application developers can focus on user capabilities and user experience.
 
 The Kandy JavaScript SDK works with the Kandy Distant Toolkit to coordinate the application behavior on the VDI Desktop and the media processing on the thin client.
 
@@ -17,7 +17,7 @@ Enables the use of HID devices in a Citrix VDI environement
 
 #### [Kandy Distant Driver for VDI](https://github.com/Kandy-IO/kandy-distant-vdi/)
 
-Enables application developers to deliver an HD experience for video and audio calls in a Citrix VDI environment
+Enables application developers to deliver a HD experience for video and audio calls in a Citrix VDI environment
 
 #### [Kandy Distant Toolkit](https://github.com/Kandy-IO/kandy-distant-toolkit/)
 
