@@ -5,7 +5,7 @@ In conjunction with the Kandy JavaScript SDK, the Kandy Distant Toolkit provides
 
 The Kandy JavaScript SDK works with the Kandy Distant Toolkit to coordinate the application behavior on the VDI Desktop and the media processing on the thin client.
 
-The Kandy VDI Toolkit separates out the application from the media processing, enabling the application to be securely deployed in the managed environment, while not impacting performance by running the media between the thin client and the virtual desktop.
+The Kandy VDI Toolkit separates out the application from the media processing, enabling the application to be securely deployed in the managed environment while not impacting performance by running the media between the thin client and the virtual desktop.
 
 The Toolkit is currently supported on thin clients running eLux OS for use with Citrix Worspace App, using the [Kandy Distant Driver for VDI](https://github.com/Kandy-IO/kandy-distant-vdi/).
 
