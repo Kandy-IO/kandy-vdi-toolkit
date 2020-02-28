@@ -12,20 +12,20 @@ Not impacting performance by running the media between the thin client and the v
 
 The Toolkit is currently supported on thin clients running eLux OS for use with Citrix Worspace App, using the [Kandy Distant Driver for VDI](https://github.com/Kandy-IO/kandy-distant-vdi/)
 
-Here are some of the libraries part of this toolkit.
+Here are some of the libraries part of this toolkit:
 
-### [Kandy HID Driver for VDI](https://github.com/Kandy-IO/kandy-hid-vdi/)
+#### [Kandy HID Driver for VDI](https://github.com/Kandy-IO/kandy-hid-vdi/)
 
 Enables the use of HID devices in a Citrix VDI environement
 
-### [Kandy Distant Driver for VDI](https://github.com/Kandy-IO/kandy-distant-vdi/)
+#### [Kandy Distant Driver for VDI](https://github.com/Kandy-IO/kandy-distant-vdi/)
 
 Enables application developers to deliver a HD experience for video and audio calls in a Citrix VDI environment
 
-### [Kandy Distant Toolkit](https://github.com/Kandy-IO/kandy-distant-toolkit/)
+#### [Kandy Distant Toolkit](https://github.com/Kandy-IO/kandy-distant-toolkit/)
 
 Enabled session based communication over channels
 
-### Kandy VChannel
+#### Kandy VChannel
 
 Enable distant session over Citrix Virtual Channels
