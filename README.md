@@ -1,4 +1,4 @@
-# kandy-vdi-toolkit
+# @kandy-io/kandy-vdi-toolkit
 ## Kandy VDI toolkit
 
 In conjunction with the Kandy JavaScript SDK, the Kandy Distant Toolkit provides a platform that enables application developers to deliver a HD experience for video and audio calls in a VDI environments. The platform hides the complexities of dealing with thin clients, and server-based computing so that application developers can focus on user capabilities and user experience.
