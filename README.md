@@ -19,10 +19,6 @@ Enables the use of HID devices in a Citrix VDI environement
 
 Enables application developers to deliver a HD experience for video and audio calls in a Citrix VDI environment
 
-#### [Kandy Distant Toolkit](https://github.com/Kandy-IO/kandy-distant-toolkit/)
+#### [Kandy Distant JS](https://github.com/Kandy-IO/kandy-distant-js/)
 
 Enables session-based communication over Citrix Virtual Channels
-
-#### Kandy VChannel
-
-Enables use of distant sessions over Citrix Virtual Channels
